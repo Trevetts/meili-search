@@ -4,7 +4,7 @@
     "type": "statamic-addon",
     "require": {
       "http-interop/http-factory-guzzle": "^1.0",
-      "meilisearch/meilisearch-php": "^0.15"
+      "meilisearch/meilisearch-php": ">=0.15"
     },
     "autoload": {
         "psr-4": {
